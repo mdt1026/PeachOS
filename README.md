@@ -1,6 +1,6 @@
 # PeachOS
 
-A multithreaded kernel project built from scratch following [this Udemy guide](https://www.udemy.com/course/developing-a-multithreaded-kernel-from-scratch/learn/lecture/23967076#overview).
+A multithreaded kernel project built from scratch following [this Udemy guide](https://www.udemy.com/course/developing-a-multithreaded-kernel-from-scratch/learn/lecture/23967076#overview) by Daniel McCarthy.
 
 ## Description
 
